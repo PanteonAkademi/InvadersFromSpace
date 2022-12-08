@@ -147,3 +147,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scoreValue: 150
   explosion: {fileID: 5663621599429085263, guid: e2a3625765b70ec488b8772dfa60151e, type: 3}
+  coinPrefab: {fileID: 8276385190231508713, guid: d2e672409d4c2034aa290f3cd2d1db38, type: 3}
+  lifePrefab: {fileID: 6741444440821255734, guid: a56c205a351f6e3439014fc03fdbfbcc, type: 3}
+  healthPrefab: {fileID: 4887574791629876784, guid: 41b163172d1fe3e4a9d13b6a3bb38cd0, type: 3}
